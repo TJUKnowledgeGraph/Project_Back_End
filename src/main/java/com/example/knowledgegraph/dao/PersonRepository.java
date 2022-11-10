@@ -1,6 +1,6 @@
 package com.example.knowledgegraph.dao;
 
-import com.example.knowledgegraph.bean.Person;
+import com.example.knowledgegraph.model.entity.Person;
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 import org.springframework.data.neo4j.repository.query.Query;
 import org.springframework.data.repository.query.Param;

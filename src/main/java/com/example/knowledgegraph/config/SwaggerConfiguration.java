@@ -1,4 +1,4 @@
-package com.example.knowledgegraph;
+package com.example.knowledgegraph.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

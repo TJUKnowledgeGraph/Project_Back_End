@@ -1,4 +1,4 @@
-package com.example.knowledgegraph.bean;
+package com.example.knowledgegraph.model.entity;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
@@ -8,7 +8,6 @@ import org.springframework.data.neo4j.core.schema.Property;
 
 import java.io.Serializable;
 
-@Data
 @Node
 public class Person implements Serializable {
     @Id

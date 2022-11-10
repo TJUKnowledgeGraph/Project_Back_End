@@ -1,6 +1,6 @@
 package com.example.knowledgegraph.service;
 
-import com.example.knowledgegraph.bean.Person;
+import com.example.knowledgegraph.model.entity.Person;
 import com.example.knowledgegraph.dao.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
